@@ -27,5 +27,8 @@
     "progressive-web-app",
     "pwa",
     "installable web app"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "1.18.2"
+  }
 }
